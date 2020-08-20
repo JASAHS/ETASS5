@@ -22,7 +22,7 @@
     "natural": "^0.6.3",
     "react": "^16.13.0",
     "react-bootstrap": "^1.0.0-beta.17",
-    "bcrypt": "^4.0.0",
+    "bcrypt": "^5.0.0",
     "cookie-parser": "^1.4.4",
     "cors": "^2.8.5",
     "jsonwebtoken": "^8.5.1",
